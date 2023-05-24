@@ -1,0 +1,46 @@
+/* Global Configuration */
+body {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    background-color: rgb(255, 255, 255);
+}
+/* Header CSS */
+h1 {
+    padding: 0;
+    margin: 0;
+    height: 75px;
+    line-height: 75px;
+    width: 100%; 
+    background-color: rgb(9, 55, 117);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    text-indent: 15px;
+}
+/* Header Accent CSS */
+.rectangle {
+    height: 10px;
+    width: 100%;
+    background-color: rgb(134, 136, 158);
+}
+/* Homepage Title CSS */
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    text-indent: 15px;
+}
+/* Introduction Paragraph CSS */
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    padding-left: 15px;
+}
+/* List CSS */
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}

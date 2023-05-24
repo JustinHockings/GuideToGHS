@@ -1,0 +1,97 @@
+/* Global Configuration */
+body {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    background-color: rgb(255, 255, 255);
+}
+/* Header CSS */
+h1 {
+    padding: 0;
+    margin: 0;
+    height: 75px;
+    line-height: 75px;
+    width: 100%; 
+    background-color: rgb(9, 55, 117);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    text-indent: 15px;
+}
+/* Header Accent CSS */
+.rectangle {
+    height: 10px;
+    width: 100%;
+    background-color: rgb(134, 136, 158);
+}
+/* Homepage Title CSS */
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    text-indent: 15px;
+}
+/* Introduction Paragraph CSS */
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    padding-left: 15px;
+}
+/* Buildings and Classrooms Button Configuration */
+h4 {
+    padding-left: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+/* Facilities Button Configuration */
+h5 {
+    padding-left: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+/* Extra Groups Button Configuration */
+h6 {
+    padding-left: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+/* Useful Links Button Configuration */
+h7 {
+    padding-left: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+/* Credits Button Configuration */
+h8 {
+    padding-left: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+/* Image Padding */
+h9 {
+    padding-left: 15px;
+}
+/* Button CSS + Hover Settings */
+.button {
+    background-color: rgb(9, 55, 117); 
+    color:rgb(255, 255, 255);
+    font-size: large;
+}
+.button:hover {
+    background-color: rgb(255, 255, 255); 
+    color:rgb(9, 55, 117);
+    transition-duration: 0.25s;
+    font-size: large;
+    scale: 1.2;
+}
